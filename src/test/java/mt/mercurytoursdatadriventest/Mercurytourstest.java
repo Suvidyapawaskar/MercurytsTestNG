@@ -20,7 +20,7 @@ public class Mercurytourstest {
 	{
 		System.setProperty("webdriver.chrome.driver","G:\\Selenium Setup\\setup1\\chromedriver_win32 (8)\\chromedriver.exe");
 		driver = new ChromeDriver();
-		System.out.println("The browser is successfully opened");
+		System.out.println("The chrome browser is successfully opened");
 		driver.manage().window().maximize();
 	}
 
