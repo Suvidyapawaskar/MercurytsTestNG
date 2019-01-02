@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39396" started-at="2018-09-04T03:13:48Z" finished-at="2018-09-04T03:14:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39396" started-at="2018-09-04T03:13:48Z" finished-at="2018-09-04T03:14:27Z">
+      <class name="mt.mercurytoursdatadriventest.Mercurytourstest">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="Openbrowser" is-config="true" duration-ms="14299" started-at="2018-09-04T03:13:34Z" finished-at="2018-09-04T03:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openbrowser -->
+        <test-method status="PASS" signature="EnterApplicationurl()[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="EnterApplicationurl" is-config="true" duration-ms="3844" started-at="2018-09-04T03:13:48Z" finished-at="2018-09-04T03:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterApplicationurl -->
+        <test-method status="PASS" signature="Loginwithvaliddata(java.lang.String, java.lang.String)[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="Loginwithvaliddata" duration-ms="15187" started-at="2018-09-04T03:13:53Z" data-provider="getdata" finished-at="2018-09-04T03:14:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwithvaliddata -->
+        <test-method status="PASS" signature="Loginwithvaliddata(java.lang.String, java.lang.String)[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="Loginwithvaliddata" duration-ms="9307" started-at="2018-09-04T03:14:08Z" data-provider="getdata" finished-at="2018-09-04T03:14:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwithvaliddata -->
+        <test-method status="PASS" signature="Loginwithvaliddata(java.lang.String, java.lang.String)[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="Loginwithvaliddata" duration-ms="10031" started-at="2018-09-04T03:14:17Z" data-provider="getdata" finished-at="2018-09-04T03:14:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwithvaliddata -->
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:mt.mercurytoursdatadriventest.Mercurytourstest@39c0f4a]" name="Closebrowser" is-config="true" duration-ms="325" started-at="2018-09-04T03:14:27Z" finished-at="2018-09-04T03:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+      </class> <!-- mt.mercurytoursdatadriventest.Mercurytourstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
